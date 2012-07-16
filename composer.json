@@ -1,0 +1,9 @@
+{
+    "name": "PhpXero",
+    "description": "PhpXero Class",
+    "autoload": {
+        "psr-0": {
+            "PhpXero": ""
+        }
+    }
+}
