@@ -1,6 +1,7 @@
 {
     "name": "PhpXero",
     "description": "PhpXero Class",
+    "target-dir": "PhpXero",
     "autoload": {
         "psr-0": {
             "PhpXero": ""
